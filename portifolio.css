@@ -1,7 +1,7 @@
 body {
-  background: linear-gradient(287deg, rgba(150, 0, 80, 1) 0%, rgba(149, 55, 167, 1) 50%, rgba(36, 3, 43, 1) 100%);
+  background: linear-gradient(270deg , rgba(149, 55, 167, 1) 50%, rgba(36, 3, 43, 1) 100%);
 }
 
 .navbar {
-  background-color: rgba(149, 55, 167, 1);
+  background-color: rgb(191, 142, 201) !important;
 }
